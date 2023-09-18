@@ -1,0 +1,33 @@
+body {
+	background-color: #333;
+	color: whitesmoke;
+}
+
+.menu {
+	margin: 30px auto;
+	width: 100%;
+}
+
+.menu tr td {
+	border: 1px solid #CCC;
+	height: 50px;
+	text-align: center;
+	cursor: pointer;
+}
+
+.menu tr td:hover {
+	background-color: #666;
+	/* color: skyblue; */
+}
+
+.imgBox {
+	width: 90%;
+	height: 300px;
+	border: 1px solid white;
+	margin: auto;
+}
+
+.imgBox img {
+	width: 100%;
+	height: 100%;
+}
